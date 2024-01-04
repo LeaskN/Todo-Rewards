@@ -5,6 +5,7 @@
     - JavaScript/TypeScript 
   - Frontend:
     - React.js
+    - Tailwind.css
   - Backend:
     - GraphQL
   - DB:
